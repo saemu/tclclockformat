@@ -1,0 +1,6 @@
+[requires]
+tcl/8.6.10@_/_
+
+[generators]
+cmake_find_package
+cmake_paths
